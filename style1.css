@@ -1,0 +1,36 @@
+header {
+    background-color: aquamarine;
+    color: orange;
+}
+
+footer {
+    background-color: yellow;
+    color: blue;
+}
+
+div.div_uno {
+    background-color: yellow;
+    color: red;
+}
+
+div.bloc1 {
+    background-color: #E0F8F7;
+    color: red;
+}
+
+div.bloc2 {
+    background-color: #F2F5A9;
+    color: green;
+}
+
+.caja {
+    background-color: yellow;
+    border: 1px solid red;
+    width: 250px;
+    height: 100px;
+   /* display: block; - bloque */
+   /* display: inline; - no representa width: height: */
+   /* display: inline-block; inline + block */
+     
+
+}
