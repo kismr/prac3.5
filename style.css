@@ -1,7 +1,15 @@
-div.uno {
+div.d {
     background-color: #fffcd4;
 }
 
-div.dos {
+div.a {
     background-color: #adff2f;
+}
+
+div.r {
+    background-color: #ffa404;
+}
+
+div.b {
+    background-color: blue;
 }
